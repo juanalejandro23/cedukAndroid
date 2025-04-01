@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Myapp</string>
+    <string name="conversor">Conversor de unidades</string>
+    <string name="ingresa_un_valor">Ingresa un valor</string>
+    <string name="convertir">Convertir</string>
+    <string name="resultado">Resultado</string>
 </resources>
